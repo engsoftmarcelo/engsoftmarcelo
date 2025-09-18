@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/engsoftmarcelo/engsoftmarcelo/blob/4d5c8ee5c9bcc2a9f85600915157cd2fe292ac15/banner-marcelo.png.png" alt="Marcelo Banner" width="100%">
+</p>
+
 # Yo, eu sou o Marcelo! 👾
 
 💻 Estudante de Engenharia de Software | 1º período, mas já mandando ver no código  
