@@ -9,7 +9,7 @@ Estudante de Engenharia de Software na PUC Minas, em BH.
 Explorando engenharia de software e IA enquanto construo projetos em público.
 
 - Construindo: ClickSeguro
-- Aprendendo: [PREENCHER: tecnologias que você está estudando de verdade]
+- Aprendendo: Java, Spring Boot, APIs REST, HTML, CSS, JavaScript, Git/GitHub e fundamentos de UX/UI.
 - Conteúdo: @engsoftmarcelo
 - PT-BR · learning English
 
